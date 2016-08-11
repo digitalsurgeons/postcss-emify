@@ -1,0 +1,22 @@
+{
+  "name": "postcss-emify",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to transform all em( px ); declarations into its em equivalent.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ads1018/postcss-emify.git"
+  },
+  "keywords": [
+    "postcss"
+  ],
+  "author": "Adam Soffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ads1018/postcss-emify/issues"
+  },
+  "homepage": "https://github.com/ads1018/postcss-emify#readme"
+}
