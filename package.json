@@ -1,6 +1,6 @@
 {
   "name": "postcss-emify",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "PostCSS plugin to transform all em( px ); declarations into its em equivalent.",
   "main": "index.js",
   "repository": {
